@@ -64,7 +64,7 @@ Libraries : Scikit, Pandas
 Run python sentimentalAnalysis.py
 
 ## 9. Screenshots ##
-Check Result in screenshots folder
+Check Result in ScreenShot folder
 
 ## 10. Publication ##
 ## Paper Title: ##
