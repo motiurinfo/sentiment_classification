@@ -51,7 +51,7 @@ gradient_boost_classifier : Applies Gradient Boost on the training data and retu
 
 accuracy : Finds the accuracy in percentage given the training and test labels
 
-## Environment ##
+## 7. Environment ##
 
 OS: Linux Mint
 
@@ -59,10 +59,15 @@ Language : Python 3
 
 Libraries : Scikit, Pandas 
 
-
-## How to Execute? ##
+## 8. How to Execute? ##
 
 Run python sentimentalAnalysis.py
 
-## Screenshots ##
+## 9. Screenshots ##
 Check Result in screenshots folder
+
+## 10. Publication ##
+## Paper Title: Supervised Ensemble Machine Learning Aided Performance Evaluation of Sentiment Classification ##
+## Authonrs: Sheikh Shah Mohammad Motiur Rahman, Md. Habibur Rahman, Kaushik Sarker, Md. Samadur Rahman, Nazmul Ahsan,##
+## M. Mesbahuddin Sarker ##
+## Conference Info: 2nd International Conference on Data Mining, Communications and Information Technology (DMCIT 2018), Shanghai, China ##
