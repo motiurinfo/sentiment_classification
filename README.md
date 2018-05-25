@@ -67,7 +67,9 @@ Run python sentimentalAnalysis.py
 Check Result in screenshots folder
 
 ## 10. Publication ##
-## Paper Title: Supervised Ensemble Machine Learning Aided Performance Evaluation of Sentiment Classification ##
-## Authonrs: Sheikh Shah Mohammad Motiur Rahman, Md. Habibur Rahman, Kaushik Sarker, Md. Samadur Rahman, Nazmul Ahsan,##
-## M. Mesbahuddin Sarker ##
-## Conference Info: 2nd International Conference on Data Mining, Communications and Information Technology (DMCIT 2018), Shanghai, China ##
+## Paper Title: ##
+Supervised Ensemble Machine Learning Aided Performance Evaluation of Sentiment Classification
+## Authonrs: ##
+Sheikh Shah Mohammad Motiur Rahman,Md. Habibur Rahman,Kaushik Sarker,Md. Samadur Rahman, Nazmul Ahsan,M. Mesbahuddin Sarker
+## Conference Info: ##
+2nd International Conference on Data Mining, Communications and Information Technology (DMCIT 2018), Shanghai, China
