@@ -16,6 +16,8 @@ The training dataset in aclImdb folder has two sub-directories pos/ for positive
 ## 4. Data Representations Used  ##
 
 Vectorization methods: Unigram , Bigram
+
+
 Feature Extraction: TfIdf 
 
 
