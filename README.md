@@ -18,7 +18,7 @@ The training dataset in aclImdb folder has two sub-directories pos/ for positive
 Vectorization methods: Unigram , Bigram
 
 
-Feature Extraction: TfIdf 
+Feature Extraction: TF-IDF 
 
 
 ## 5. Algorithmic Overview ##
